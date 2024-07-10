@@ -14,7 +14,7 @@ import { theme } from "../theme";
 export default function HomeScreen() {
   return (
     <View className="flex-1">
-      <Text>Hello</Text>
+      <Text>Helllo</Text>
     </View>
   )
    
